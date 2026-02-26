@@ -1,0 +1,11 @@
+body{
+    background: scroll;
+    text-align: center;
+    color: lightslategrey;
+}
+.body{
+    outline-color: goldenrod;
+}
+.body:hover{
+    transition-delay: 3s;
+}
